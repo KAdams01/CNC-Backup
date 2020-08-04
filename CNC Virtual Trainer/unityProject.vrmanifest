@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.cncvirtualtrainer.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\EONSupport\\Documents\\CNC-Virtual-Trainer\\CNC Virtual Trainer\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "CNC Virtual Trainer [Testing]"
+        }
+      }
+    }
+  ]
+}

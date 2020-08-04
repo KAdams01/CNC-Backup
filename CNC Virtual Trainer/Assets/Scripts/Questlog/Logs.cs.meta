@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: bc01fc46757437e4184dd8fbc7ccdfdf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - questField1: {instanceID: 0}
+  - questField2: {instanceID: 0}
+  - questField3: {instanceID: 0}
+  - questField4: {instanceID: 0}
+  - questField5: {instanceID: 0}
+  - extendedDescription: {instanceID: 0}
+  - eDImage: {instanceID: 0}
+  - arrowKeys: {fileID: 2800000, guid: ab934a0f0241cbf478931ec8d26ea08b, type: 3}
+  - axisKeys: {fileID: 2800000, guid: 14c74389d67991f46983cdef8393c7db, type: 3}
+  - defaultPosition: {fileID: 2800000, guid: dd6a37c8d97869b4699aa9ced1c2409e, type: 3}
+  - handJog: {fileID: 2800000, guid: 4972532b3d4622f43ad2b520bc19c079, type: 3}
+  - handleJog: {fileID: 2800000, guid: f17c726580cb2ee43a92414e7652ad32, type: 3}
+  - keypad: {fileID: 2800000, guid: 84544b97ed3cc604583f49c82acd7886, type: 3}
+  - numberKeys: {fileID: 2800000, guid: a6a7c0e17375c144b9afa2b84b08d14e, type: 3}
+  - partZeroSet: {fileID: 2800000, guid: b4a93e65d00ab574f8c86294072beb89, type: 3}
+  - powerOn: {fileID: 2800000, guid: cc74649a07f1e3c4e85d3e5b2462d045, type: 3}
+  - speedKeys: {fileID: 2800000, guid: 366da71f3fdc161448afeef8494a5b4c, type: 3}
+  - tool: {fileID: 2800000, guid: cc0d4cf2bfcf7b547890589abf0a0d55, type: 3}
+  - toolArrow: {fileID: 2800000, guid: b272436089a10d944a43735a30953c7e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
